@@ -247,7 +247,7 @@ void Dictionary::write_word()
 
 void Dictionary::write_menu()
 {
-    cout << "To continue, select the command.\n";
+    cout << "Hello! To continue, select the command.\n";
     cout << "1. Translation from Russian to English.\n";
     cout << "2. Translation from English to Russian.\n";
     cout << "3. Add a new word to dictionary.\n";
